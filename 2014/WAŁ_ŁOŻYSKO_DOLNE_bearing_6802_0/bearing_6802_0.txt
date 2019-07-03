@@ -1,0 +1,14 @@
+﻿"Symbol";"Value";"Unit";
+"REFERENCE";"6802";"";
+"TraceParts.PartVersion";"1.7.8";"";
+"SUPPLIER";"NSK";"";
+"MASS";"0.007";"kg";
+"TraceParts.PartNumber";"32-12102010-089495";"";
+"TraceParts.PartLanguage";"en";"";
+"DESIGN";"Single  row deep groove ball bearings - Open - 6802";"";
+"TraceParts.InstanceId";"32-12102010-08949516LGA7DFMG4B825U81FGJMSOI";"";
+"TraceParts.PartTitle";"Single  row deep groove ball bearings - Open";"";
+"TRACEPARTS";"TRACEPARTS";"";
+"TraceParts.PartStatusId";"";"";
+"TraceParts.ClassPath";"NSK:/F_NSK/NSK.010/NSK.010.010/32-12102010-089495";"";
+"TraceParts.PartStatus";"Published";"";

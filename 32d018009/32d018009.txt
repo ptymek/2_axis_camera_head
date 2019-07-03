@@ -1,0 +1,13 @@
+﻿"Symbol";"Value";"Unit";
+"TraceParts.PartNumber";"10-10122013-108410";"";
+"REFERENCE";"32D018009";"";
+"TraceParts.PartTitle";"3M 09";"";
+"TraceParts.InstanceId";"10-10122013-108410495F5LD2T27PWPNUOURRQTF6E";"";
+"DESIGN";"    18 3M  9 - 6F";"";
+"TraceParts.PartStatus";"Published";"";
+"TraceParts.PartStatusId";"";"";
+"SUPPLIER";"POGGI";"";
+"TraceParts.PartVersion";"1.1.1";"";
+"TRACEPARTS";"TRACEPARTS";"";
+"TraceParts.PartLanguage";"en";"";
+"TraceParts.ClassPath";"POGGI:/ROOT/C21/C21.220/C21.220.010/C21.220.010.010/10-10122013-108410";"";

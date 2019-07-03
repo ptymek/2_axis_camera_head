@@ -1,0 +1,13 @@
+﻿"Symbol";"Value";"Unit";
+"TraceParts.PartNumber";"32-27102010-127980";"";
+"REFERENCE";"52206";"";
+"TraceParts.PartTitle";"Double direction flat seat  ball thrusts";"";
+"TraceParts.InstanceId";"32-27102010-127980EOMIYNPJ6R0JGC9JY6J21GDKP";"";
+"DESIGN";"Double direction flat seat  ball thrusts, d = 30 mm, D = 52 mm, T1 = 29 mm";"";
+"TraceParts.PartStatus";"Published";"";
+"TraceParts.PartStatusId";"";"";
+"SUPPLIER";"NSK";"";
+"TraceParts.PartVersion";"1.3.9";"";
+"TRACEPARTS";"TRACEPARTS";"";
+"TraceParts.PartLanguage";"en";"";
+"TraceParts.ClassPath";"NSK:/F_NSK/32-27102010-127980";"";

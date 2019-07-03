@@ -1,0 +1,12 @@
+﻿"Symbol";"Value";"Unit";
+"TraceParts.PartNumber";"10-04112008-092426";"";
+"REFERENCE";"23000B8X50";"";
+"TraceParts.PartTitle";"23000B : VIS À TÊTE CYLINDRIQUE À SIX PANS CREUX ISO 4762 DIN 912 ACIER CLASSE 12.9 - BRUT";"";
+"TraceParts.InstanceId";"10-04112008-0924265QR3ASE6GI4OVLIQJPYUYU6F5";"";
+"TraceParts.PartStatus";"Published";"";
+"TraceParts.PartStatusId";"";"";
+"SUPPLIER";"Emile Maurin";"";
+"TraceParts.PartVersion";"1.1.9";"";
+"TRACEPARTS";"TRACEPARTS";"";
+"TraceParts.PartLanguage";"fr";"";
+"TraceParts.ClassPath";"EMILE_MAURIN_BV:/ROOT/C21/C21.060/C21.060.010/C21.060.010.T02/10-04112008-092426";"";

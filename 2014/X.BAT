@@ -1,0 +1,10 @@
+c:\users\pt\appdata\local\temp\Z³o¿enie1-Analiza statyczna 1
+C:\Users\PT\Dropbox\PRACA_PRZEJŒCIOWA\PART\G£OWICA-Analiza statyczna 2
+C:\Users\Tymek\Dropbox\PRACA_PRZEJŒCIOWA\PART\Czêœæ5-Analiza statyczna 2
+C:\Users\Tymek\Dropbox\PRACA_PRZEJŒCIOWA\PART\G£OWICA-Analiza statyczna 3
+C:\Users\Tymek\Dropbox\PRACA_PRZEJŒCIOWA\PART\G£OWICA-Analiza statyczna 3
+C:\Users\Tymek\Dropbox\PRACA_PRZEJŒCIOWA\PART\G£OWICA-Analiza statyczna 3
+C:\Users\Tymek\Dropbox\PRACA_PRZEJŒCIOWA\PART\G£OWICA-Analiza statyczna 3
+C:\Users\Tymek\Dropbox\PRACA_PRZEJŒCIOWA\PART\G£OWICA-Analiza statyczna 5
+C:\Users\Tymek\Dropbox\PRACA_PRZEJŒCIOWA\PART\G£OWICA-Analiza statyczna 5
+C:\Users\Tymek\Dropbox\PRACA_PRZEJŒCIOWA\PART\Z³o¿enie1-Analiza statyczna 1
